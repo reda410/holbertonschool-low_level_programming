@@ -1,7 +1,11 @@
-#include "hello_world.h"
 #include <stdio.h>
 
-const char *hello(void)
-{
-printf("Hello, World!");
+/**
+ * main - Prints out output using puts
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void) {
+    puts("\"Programming is like building a multilingual puzzle");
+    return (0);
 }

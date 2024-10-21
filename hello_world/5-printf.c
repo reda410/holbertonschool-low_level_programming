@@ -1,8 +1,7 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
- * main - Prints out output using puts
+ * main - Prints out a specific message
  *
  * Return: Always 0 (Success)
  */

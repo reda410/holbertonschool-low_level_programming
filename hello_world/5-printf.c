@@ -1,12 +1,14 @@
 #include <stdio.h>
-
 /**
- * main - Prints out a specific message
+ * main - Entry point of the program
+ *
+ * Description: This function prints "with proper grammar, but the outcome
+ * is a piece of art," followed by a new line to the standard output.
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-    puts("Programmer, c'est comme construire un puzzle multilingue");
-    return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }

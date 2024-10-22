@@ -20,6 +20,5 @@ while (c <= 'Z')
 putchar(c);
 c++;
 }
-print('n\');
 return (0);
 }

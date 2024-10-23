@@ -10,8 +10,8 @@ while (c <= 'z')
 putchar(c);
 c++;
 }
-c = 'q';
-while (c <= 'e')
+c = 'A';
+while (c <= 'Z')
 {
 putchar(c);
 c++;

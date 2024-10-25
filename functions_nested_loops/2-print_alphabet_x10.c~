@@ -1,0 +1,19 @@
+#include "main.h
+
+/**
+ * print_alphabet_x10 - alphabet 10
+ * Return: Always 0 (Success)
+ */
+void print_alphabet_x10(void)
+{
+int 10alphabet;
+int a;
+for (a = 1; a <= 10; a++)
+{
+for (10 alphabet = 'a'; 10 alphabet <= 'z' && ; 10 alphabet++)
+{
+_putchar(10 alphabet);
+}
+_putchar('\n');
+}
+}

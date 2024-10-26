@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - Prints the first 50 Fibonacci numbers
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int count;
@@ -14,5 +18,5 @@ unsigned long next_fib = fib1 + fib2;
 fib1 = fib2;
 fib2 = next_fib;
 }
-return 0;
+return (0);
 }

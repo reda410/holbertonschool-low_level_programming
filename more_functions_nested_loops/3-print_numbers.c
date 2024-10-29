@@ -7,7 +7,7 @@
  */
 
 void print_numbers(void)
-{  
+{ 
 int zn;
 {
 for (zn = 48; zn <= 57; zn++)
